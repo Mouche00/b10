@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+
+#categorie::-webkit-scrollbar {
+    display: none;
+  }
+
+/* * {
+    font-family: 'Rubik', sans-serif;
+} */
+  #marque::-webkit-scrollbar {
+    display: none;
+  }.login-button {
+    background-color: rgb(0, 119, 255) !important;
+}
+
+.login-btn {
+    background-color: rgb(215, 220, 227) !important;
+}
+.btnregister {
+    background-color: rgb(55, 97, 223) !important;
+}
+
+.pass-btn {
+  background-color: rgb(55, 97, 223) !important;
+}
+
+  
+
